@@ -6,7 +6,7 @@
 }
 
 .modal-header {
-  background-color: #343a40;
+  background-color: #f760a6;
   color: #f8f9fa;
   padding: 20px;
   border-bottom: none;
@@ -27,7 +27,7 @@
 }
 
 .btn-close:hover {
-  color: #e74c3c;
+  color: #000;
 }
 
 .modal-body {

@@ -36,15 +36,15 @@
 
 /* Botón para más información */
 .btn-primary {
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #ff0077;
+  border-color: #ff0077;
   border-radius: 25px;
   transition: background-color 0.2s;
 }
 
 .btn-primary:hover {
-  background-color: #929292;
-  border-color: #000000;
+  background-color: #ff7ab8;
+  border-color: #ff0077;
 }
 
 /* Estilo para el SVG de carga */
