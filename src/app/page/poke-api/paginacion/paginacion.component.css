@@ -15,8 +15,8 @@
 .page-link {
   display: block;
   padding: 10px 20px;
-  color: #007bff;
-  background-color: #fff;
+  color: #ffffff;
+  background-color: #000000;
   border: 1px solid #dee2e6;
   border-radius: 5px;
   text-decoration: none;
@@ -26,8 +26,8 @@
 /* Hover and active states */
 .page-link:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #929292;
+  border-color: #000000;
 }
 
 .page-item.disabled .page-link {

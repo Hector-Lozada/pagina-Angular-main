@@ -35,15 +35,15 @@
 
 /* Botón de 'Más info' */
 .btn-primary {
-  background-color: #007bff;
+  background-color: #000000;
   border: none;
-  border-radius: 5px;
+  border-radius: 25px;
   transition: background-color 0.3s ease;
   font-weight: bold;
 }
 
 .btn-primary:hover {
-  background-color: #0056b3;
+  background-color: #000000;
 }
 
 /* Spinner de carga SVG */
